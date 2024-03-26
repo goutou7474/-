@@ -1,4 +1,4 @@
-# -
+# 超强反反爬小红书，完全隐藏selenium，浏览器识别不了一点
 通过selenium实现自动化爬取小红书指定日期内指定博主的推文
 使用方式
 1. `bolggers_list,limitdate1_list,limitdate2_list分别为博主主页url，开始事件，结束时间`
